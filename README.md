@@ -26,7 +26,7 @@ This repository contains a collection of university course notes, coding assignm
 - Clone the repository:
   ```bash
   git clone https://github.com/JPS-Saahil/University-Coding-Class-notes-side-projects.git
-````
+  ````
 
 * Open `.java` files with any IDE (e.g., IntelliJ IDEA, Eclipse).
 * Open Android projects in **Android Studio** for testing and development.
